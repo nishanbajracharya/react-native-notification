@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -32,10 +32,10 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/res/values/values.xml -->
     <eat-comment/>
     <color name="catalyst_redbox_background">#eecc0000</color>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values/values.xml -->
     <eat-comment/>
     <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
     <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
@@ -45,7 +45,7 @@
     <color name="common_google_signin_btn_text_light_disabled">#1F000000</color>
     <color name="common_google_signin_btn_text_light_focused">#90000000</color>
     <color name="common_google_signin_btn_text_light_pressed">#DE000000</color>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
@@ -193,12 +193,12 @@
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
@@ -209,10 +209,10 @@
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
     <item name="home" type="id"/>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/res/values/values.xml -->
     <eat-comment/>
     <item name="item_touch_helper_previous_elevation" type="id"/>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <item name="progress_circular" type="id"/>
     <item name="progress_horizontal" type="id"/>
@@ -222,10 +222,10 @@
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="abc_max_action_buttons">2</integer>
     <integer name="cancel_button_image_alpha">127</integer>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="google_play_services_version">10298000</integer>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <string name="abc_action_bar_home_description">Navigate home</string>
@@ -247,10 +247,10 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">ReactPushNotification</string>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/res/values/values.xml -->
     <eat-comment/>
     <string name="catalyst_copy_button" project="catalyst" translatable="false">Copy</string>
     <string name="catalyst_debugjs" project="catalyst" translatable="false">Debug JS Remotely</string>
@@ -275,7 +275,7 @@
     <string name="catalyst_report_button" project="catalyst" translatable="false">Report</string>
     <string name="catalyst_settings" project="catalyst" translatable="false">Dev Settings</string>
     <string name="catalyst_settings_title" project="catalyst" translatable="false">Catalyst Dev Settings</string>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values/values.xml -->
     <eat-comment/>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
@@ -284,10 +284,10 @@
     <string name="common_google_play_services_install_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your device.</string>
     <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
     <string name="common_google_play_services_notification_ticker">Google Play services error</string>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/res/values/values.xml -->
     <eat-comment/>
     <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values/values.xml -->
     <eat-comment/>
     <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are not supported by your device.</string>
     <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
@@ -298,25 +298,25 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/res/values/values.xml -->
     <eat-comment/>
     <style name="Animation.Catalyst.RedBox" parent="@android:style/Animation">
     <item name="android:windowEnterAnimation">@anim/catalyst_push_up_in</item>
     <item name="android:windowExitAnimation">@anim/catalyst_push_up_out</item>
   </style>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
     </style>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
@@ -1253,7 +1253,7 @@
         <item name="android:minWidth">56dp</item>
         <item name="android:scaleType">center</item>
     </style>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/res/values/values.xml -->
     <eat-comment/>
     <style name="CalendarDatePickerDialog" ns1:targetApi="lollipop" parent="Theme.AppCompat.Light.Dialog">
         <item name="android:datePickerStyle">@style/CalendarDatePickerStyle</item>
@@ -1269,7 +1269,7 @@
     <item name="android:windowEnterAnimation">@anim/slide_up</item>
     <item name="android:windowExitAnimation">@anim/slide_down</item>
   </style>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
@@ -1415,7 +1415,7 @@
         <item name="android:paddingLeft">@dimen/abc_action_bar_overflow_padding_start_material</item>
         <item name="android:paddingRight">@dimen/abc_action_bar_overflow_padding_end_material</item>
     </style>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/res/values/values.xml -->
     <eat-comment/>
     <style name="SpinnerDatePickerDialog" ns1:targetApi="lollipop" parent="Theme.AppCompat.Light.Dialog">
         <item name="android:datePickerStyle">@style/SpinnerDatePickerStyle</item>
@@ -1423,7 +1423,7 @@
     <style name="SpinnerDatePickerStyle" ns1:targetApi="lollipop" parent="android:Widget.Material.Light.DatePicker">
         <item name="android:datePickerMode">spinner</item>
     </style>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
     <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>
@@ -1492,10 +1492,10 @@
     </style>
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Title" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Title">
     </style>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme"/>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.AppCompat" parent="Base.Theme.AppCompat"/>
     <style name="Theme.AppCompat.CompactMenu" parent="Base.Theme.AppCompat.CompactMenu"/>
@@ -1519,7 +1519,7 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.Catalyst"/>
     <style name="Theme.Catalyst.RedBox" parent="@style/Theme.AppCompat.DialogWhenLarge">
@@ -1550,7 +1550,7 @@
         <item name="android:windowFullscreen">true</item>
         <item name="android:windowContentOverlay">@null</item>
     </style>
-    <!-- From: file:/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/home/nishan/github/react-native-notification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
     <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>
