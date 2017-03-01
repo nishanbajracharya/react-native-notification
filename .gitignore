@@ -26,5 +26,8 @@ yarn.lock
 #android
 android/
 
+#gradle
+*.gradle
+
 #ios
 ios/
