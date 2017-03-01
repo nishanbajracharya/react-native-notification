@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/pre-dexed/debug/classes-327e932ad337c6fc42860e83740ed9c27c91810b.jar" />
+    </item>
+    <item
+        jar="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.8/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="531c33d3697000a05e9493a2d0f09ba41fa114d3">
+        <dex dex="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/pre-dexed/debug/classes-3df9ab29e3b63ff50fec9566603e18f9cf76c479.jar" />
+    </item>
+    <item
+        jar="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/pre-dexed/debug/classes-f92312ce23739738c0a49543b365013a8b8960da.jar" />
+    </item>
+    <item
+        jar="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/pre-dexed/debug/classes-68cf6d55a4aa9e488810f2676350335b28873bc9.jar" />
+    </item>
+    <item
+        jar="/home/nishan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-ad73297f7d88c83ebb1bfd9f7da991c00a31795d.jar" />
+    </item>
+    <item
+        jar="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/pre-dexed/debug/classes-00e28905b9b6fd278627f05bf368c86ddd31c4f5.jar" />
+    </item>
+    <item
+        jar="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/ReactPushNotification/react-native-push-notification/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a6f208a32b8d82ce2b8bf1db1a9d469c7433ef7">
+        <dex dex="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/pre-dexed/debug/classes-492157332ee0203842cb427aba539d754fe633f3.jar" />
+    </item>
+    <item
+        jar="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/pre-dexed/debug/classes-184296497bc32cfa5c4983433d5468f3b3b085da.jar" />
+    </item>
+    <item
+        jar="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-b248849bad1e9d894a990ed67e1d54fd82948f82.jar" />
+    </item>
+    <item
+        jar="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/pre-dexed/debug/classes-0e6719bf985733df4cde15811fa7dfc4697a8377.jar" />
+    </item>
+    <item
+        jar="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="/home/nishan/Documents/react-native/ReactPushNotification/android/app/build/intermediates/pre-dexed/debug/classes-74ae3255cfa84bb4af41f8404a4390c04599083c.jar" />
+    </item>
+
+</items>
