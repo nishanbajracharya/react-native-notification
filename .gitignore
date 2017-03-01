@@ -22,3 +22,9 @@ yarn.lock
 
 #gitignore
 .gitignore
+
+#android
+android/
+
+#ios
+ios/
