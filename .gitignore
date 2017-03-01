@@ -18,3 +18,7 @@ yarn.lock
 
 #flow
 .flowconfig
+
+
+#gitignore
+.gitignore
