@@ -20,15 +20,23 @@ class App extends Component {
     this.onPress = this.onPress.bind(this);
   }
   onPress() {
-    Notification.notify({message: this.state.message, bigText: 'BIG TEXT', subText: 'Small Text'});
+    const notificationMsg = {
+      id: '1',
+      url: 'google.com',
+      bigText: 'BIG TEXT',
+      subText: 'Small Text',
+      title: 'Notification',
+      message: this.state.message
+    };
+    Notification(notificationMsg);
   }
 
   render() {
-    return(
+    return (
       <View style={[style.view]}>
-        <StatusBar backgroundColor={color.STATUSBAR_BG_COLOR} barStyle={color.STATUSBAR_TEXT_COLOR} />
+        <StatusBar backgroundColor={color.STATUSBAR_BG_COLOR} barStyle={color.STATUSBAR_TEXT_COLOR}/>
         <View>
-          <TextInput style={[style.textInput]} placeholder='Hello' onChangeText={(text) => this.setState({message: text})}/>
+          <TextInput style={[style.textInput]} placeholder='Hello' onChangeText={(text) => this.setState({message: text ? text : 'Hello'})}/>
           <Button onPress={() => this.onPress()}>Push Notification</Button>
         </View>
       </View>
